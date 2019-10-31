@@ -7,7 +7,10 @@
 	<name>Parrot</name>
 	<description>Parrot Project</description>
         <url>https://github.com/dayures/parrot</url>
-
+    <properties>
+        <maven.compiler.source>1.6</maven.compiler.source>
+        <maven.compiler.target>1.6</maven.compiler.target>
+    </properties>
 	<issueManagement>
 		<system>Tracker</system>
 		<url>https://github.com/dayures/parrot/issues</url>
